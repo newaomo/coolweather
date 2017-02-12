@@ -6,7 +6,7 @@ package com.coolweather.android.db;
  * Created by 李嵩 on 2017/2/12.
  */
 
-public class Province extends DataSupport {
+public class Province  {
 
     private int id;
 
